@@ -1,9 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:6a5acd&height=220&section=header&text=Yash%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descAlignY=58&descSize=20)
+![Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=2500&pause=800&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&height=180&lines=%F0%9F%A4%96+Applied+AI+Engineer;%F0%9F%A7%A0+Building+Production+AI+Agents;%F0%9F%93%9A+Multi-Agent+Systems+%2B+RAG+Pipelines;%E2%9A%99%EF%B8%8F+LangGraph+%2B+MCP+%2B+OpenAI;%F0%9F%93%A9+Open+to+Remote+%2B+Contracts)
 
 # 👋 Hi, I'm Yash Sharma
-
 ### 🤖 Applied AI Engineer · 📍 Delhi, India 🇮🇳
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Building+production+AI+agents+%F0%9F%A4%96;Multi-Agent+Systems+%2B+RAG+Pipelines;LangGraph+%2B+MCP+%2B+OpenAI;FastAPI+%2B+Next.js+for+shipping+LLM+features;Open+to+Remote+Roles+%2B+Contracts+%F0%9F%93%A9)
