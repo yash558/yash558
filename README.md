@@ -1,6 +1,6 @@
 <div align="center">
 
-![AI Engineer](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
+![Applied AI Engineer](https://img.shields.io/badge/%F0%9F%A4%96%20Applied%20AI%20Engineer-Building%20Production%20AI%20Agents%20%E2%80%A2%20LangGraph%20%E2%80%A2%20MCP%20%E2%80%A2%20OpenAI-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 # 👋 Hi, I'm Yash Sharma
 ### 🤖 Applied AI Engineer · 📍 Delhi, India 🇮🇳
