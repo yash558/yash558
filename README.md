@@ -1,7 +1,6 @@
 <div align="center">
 
-![Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=2500&pause=800&color=00D9FF&background=0D1117&center=true&vCenter=true&width=1000&height=180&lines=%F0%9F%A4%96+Applied+AI+Engineer;%F0%9F%A7%A0+Building+Production+AI+Agents;%F0%9F%93%9A+Multi-Agent+Systems+%2B+RAG+Pipelines;%E2%9A%99%EF%B8%8F+LangGraph+%2B+MCP+%2B+OpenAI;%F0%9F%93%A9+Open+to+Remote+%2B+Contracts)
-
+![AI Engineer](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 # 👋 Hi, I'm Yash Sharma
 ### 🤖 Applied AI Engineer · 📍 Delhi, India 🇮🇳
 
